@@ -3,7 +3,7 @@ Meu aprendizado bem básico
 
 ## O que são algoritmos?
 É uma sequencia de passos para se resolver um problema
-<!-- exemplo 
+# Exemplo 
 meu dia 
 acordei
 levantei da cama
@@ -12,6 +12,5 @@ escovei os dentes
 fui a padaria tomei café
 escovei os dentes
 fui ao trabalho
-
--->
+fim
 
