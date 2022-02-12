@@ -12,5 +12,5 @@ Meu aprendizado bem básico
 - fui a padaria tomei café
 - escovei os dentes
 - fui ao trabalho
-fim
+- fim ⬆️
 
