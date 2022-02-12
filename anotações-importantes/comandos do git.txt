@@ -1,0 +1,17 @@
+download do Git => https://git-scm.com/downloads
+
+Git bech => é um terminal estendido do Git
+
+Git status => visualiza todos os arquivos na /pasta/ 
+
+(Git add . ) => informa que fez alterações para GitHub(online)
+
+(git commit -m) "entre aspas voce pode por qualquer observação" => salva essas alterações
+
+git push origin main => mandar tudas as nossas alterações para novem
+
+cd => entra na /pasta/
+
+cd .. => volta uma pasta
+
+ 
