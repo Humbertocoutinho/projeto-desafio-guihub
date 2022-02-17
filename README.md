@@ -50,15 +50,17 @@ Meu aprendizado bem básico
 
   
 
-  funcao inicial()
+  
 
-  \ media de aluno
+  #### media de aluno na IDE Portugol Studio
+
+  funcao inicial()
 
   {
 
   declarando variáveis
 
-  ​		real n1, n2, n3, n4, media  \numeros do tipo 10.5, 7.5. 8.9, 10.0 
+  ​		real n1, n2, n3, n4, media  \numeros do tipo 10.5, 7.5,  8.9, 10.0 
 
   ​		cadeia nome \\ tipo string		
 
@@ -104,7 +106,7 @@ Meu aprendizado bem básico
 
   }
 
-  
+  fim()
 
   
 
@@ -113,7 +115,11 @@ Meu aprendizado bem básico
   
 
   
-
+  
+  
+  
+  
+  
   
 
 #  
